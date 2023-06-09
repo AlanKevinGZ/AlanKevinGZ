@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a Front-end web developer with experience in Angular, JavaScript, HTML and CSS. I also have basic knowledge in Spring Boot Java. I'm passionate about learning new technologies and staying up to date with the latest trends in the world of web development.<br><br>I am always open to new challenges and I love taking on projects that allow me to grow professionally. I enjoy exploring new tools and techniques to improve my skills. In addition to my love for programming, I'm fascinated by cats, they are adorable<br><br>I'm committed to helping others in the world of programming. I am always willing to share my knowledge and help those who need guidance or support.
+I'm a Front-end web developer with experience in Angular, JavaScript, HTML and CSS. I also have basic knowledge in Spring Boot Java. I'm passionate about learning new technologies and staying up to date with the latest trends in the world of web development.<br><br>I am always open to new challenges and I love taking on projects that allow me to grow professionally. I enjoy exploring new tools and techniques to improve my skills. In addition to my love for programming, I'm fascinated by cats, they are adorable<br><br>I'm committed to helping others in the world of programming. I'm always willing to share my knowledge and help those who need guidance or support.
 
 
 ## 🌐 Socials:
