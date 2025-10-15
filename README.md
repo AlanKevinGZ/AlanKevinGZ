@@ -24,3 +24,23 @@ I am committed to helping others in the world of programming. I am always willin
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Projects
+1. [ Bot Basico Web ] (https://github.com/AlanKevinGZ/botBasic)
+   - Chatbot sencillo desarrollado con JavaScript y HTML para responder mensajes predefinidos en una interfaz web.
+2. [ Accesibilidad Web ] (https://github.com/AlanKevinGZ/accesibilidadWeb)
+   - Análisis y mejora de accesibilidad en sitios web aplicando principios de diseño inclusivo y buenas prácticas de usabilidad.
+3. [ Api Poken Web ] (https://github.com/AlanKevinGZ/pokeApi)
+   -  Aplicación que consume la API de Pokémon para mostrar información dinámica de personajes usando React.
+4. [ App Musica React ] (https://github.com/AlanKevinGZ/react-song)
+   - Reproductor de música hecho con React que permite buscar, reproducir y gestionar canciones en una interfaz moderna.
+5. [ Ecommerce Web  ] (https://github.com/AlanKevinGZ/ecoomer)
+   - Sitio de comercio electrónico con gestión de productos, carrito de compras y flujo de pago simulado.
+6. [ Ejercicio TS ] (https://github.com/AlanKevinGZ/EjercicioTS)
+   - Práctica de fundamentos de TypeScript aplicada al desarrollo de componentes y manejo de tipos estáticos.
+7. [ Test Jest ] (https://github.com/AlanKevinGZ/jest-test)
+   - Proyecto para implementar pruebas unitarias con Jest en un entorno JavaScript.
+8. [ Sistema de Recivo ] (https://github.com/AlanKevinGZ/sistema-recibos-front)
+   - Aplicación web para la gestión de recibos, desarrollada con enfoque en frontend moderno y manejo eficiente de datos.
+9. [ pig game ] (https://github.com/AlanKevinGZ/pig-game-v1)
+   - Juego clásico desarrollado en JavaScript que permite a dos jugadores competir acumulando puntos.
+10. [ payment metodo de Pago ] (https://github.com/AlanKevinGZ/payment-processing-challenge)
+   - Simulación de sistema de procesamiento de pagos, enfocado en la lógica de validación y flujo de transacciones.
