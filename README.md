@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a Full-Stack developer with experience in developing web applications, web pages, specialized in the Angular framework, among other front technologies, I also have knowledge of Backend. I am passionate about learning new things and keeping up to date with the latest trends in the development world.
-
-I am always open to new challenges and I love undertaking projects that allow me to grow professionally. I enjoy exploring new tools and techniques to improve my skills. In addition to my love for programming, I am fascinated by cats, they are adorable.
-
-I am committed to helping others in the world of programming. I am always willing to share my knowledge and help those who need guidance or support.
+Experienced developer in project architecture and optimization. Proven ability to combine data engineering (ETL, APIs, SQL) with predictive analytics in Python, achieving data extraction and cleaning to ensure data integrity. I have worked on personal and academic projects where I have applied data processing, cleaning, and analysis techniques, developing dashboards and decision-making solutions. I seek to apply my technical training to solve business challenges using scalable data models and advanced visualization.
 
 
 ## 🌐 Socials:
