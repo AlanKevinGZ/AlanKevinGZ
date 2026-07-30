@@ -1,7 +1,7 @@
 # Alan Kevin González Hernández
 ### Data Engineer · Analytics Developer · ETL Architect
 
-> *Transforming raw data into scalable, decision-ready pipelines.*
+> *Looking to become a data engineer to transform data into scalable, decision-ready workflows.*
 
 ---
 
